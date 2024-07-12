@@ -4,7 +4,7 @@ import (
 	"context"
 	"strings"
 
-	"github.com/justwatch/facebook-marketing-api-golang-sdk/fb"
+	"github.com/pure-commerce/facebook-marketing-api-golang-sdk-enhanced/fb"
 )
 
 // InterestService works with ads interests.

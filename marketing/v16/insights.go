@@ -10,7 +10,7 @@ import (
 
 	"github.com/go-kit/kit/log"
 	"github.com/go-kit/kit/log/level"
-	"github.com/justwatch/facebook-marketing-api-golang-sdk/fb"
+	"github.com/pure-commerce/facebook-marketing-api-golang-sdk-enhanced/fb"
 )
 
 // InsightsService contains all methods for working on audiences.

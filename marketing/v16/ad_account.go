@@ -3,7 +3,7 @@ package v16
 import (
 	"context"
 
-	"github.com/justwatch/facebook-marketing-api-golang-sdk/fb"
+	"github.com/pure-commerce/facebook-marketing-api-golang-sdk-enhanced/fb"
 )
 
 // AdAccountService works with ad accounts.
