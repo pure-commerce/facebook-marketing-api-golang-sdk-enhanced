@@ -8,9 +8,9 @@ import (
 	"net/url"
 
 	
-"github.com/purecommerce/facebook-marketing-api-golang-sdk-enhanced/fb"
+"github.com/pure-commerce/facebook-marketing-api-golang-sdk-enhanced/fb"
 	
-"github.com/purecommerce/facebook-marketing-api-golang-sdk-enhanced/marketing/v16/types"
+"github.com/pure-commerce/facebook-marketing-api-golang-sdk-enhanced/marketing/v16/types"
 )
 
 // CustomConversionService contains all methods for working on custom conversions.
