@@ -7,8 +7,10 @@ import (
 	"fmt"
 	"net/url"
 
-	"github.com/justwatch/facebook-marketing-api-golang-sdk/fb"
-	"github.com/justwatch/facebook-marketing-api-golang-sdk/marketing/v16/types"
+	
+"github.com/purecommerce/facebook-marketing-api-golang-sdk-enhanced/fb"
+	
+"github.com/purecommerce/facebook-marketing-api-golang-sdk-enhanced/marketing/v16/types"
 )
 
 // CustomConversionService contains all methods for working on custom conversions.
